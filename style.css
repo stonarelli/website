@@ -1,5 +1,5 @@
-
-body, html{ background-color: #155592; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: white;}
-#main{ position: absolute; width: 30%; min-width: 300px; max-width: 400px; left: 35%; top: 20%; }
+body, html{ background-image: linear-gradient(#155592, #247ed6); background-color: #155592; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: white;}
+#main{ position: absolute; width: 30%; min-width: 300px; max-width: 400px; left: 35%; top: 20%; z-index: 100; }
 #icons-div{ text-align: center;  }
-#icons-div a, #icons-div a:hover, #icons-div a:visited, #icons-div a:link{ color: white; margin-right: 20px; }
+#icons-div a, #icons-div a:hover, #icons-div a:visited, #icons-div a:link{ color: white; margin: 0 10px; }
+
